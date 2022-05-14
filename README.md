@@ -1,4 +1,4 @@
-# Hostragons-WHMCS-Domain-Reseller
+# Hostragons-Domain-Reseller-Module-for-WHMCS
 
 ## Overview
 
